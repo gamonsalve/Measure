@@ -1,0 +1,15 @@
+main.c:159:5:main	10
+main.c:290:6:SystemClock_Config	4
+main.c:341:13:MX_I2C1_Init	4
+main.c:389:13:MX_TIM16_Init	5
+main.c:451:13:MX_USART1_UART_Init	2
+main.c:485:13:MX_USART2_UART_Init	2
+main.c:520:13:MX_GPIO_Init	1
+main.c:567:6:HAL_UART_TxCpltCallback	2
+main.c:574:6:HAL_UART_RxCpltCallback	86
+main.c:971:6:HAL_I2C_AddrCallback	1
+main.c:976:6:HAL_I2C_SlaveTxCpltCallback	1
+main.c:983:6:HAL_I2C_SlaveRxCpltCallback	2
+main.c:992:6:Heartbeat	2
+main.c:1001:6:ClearBuffer	2
+main.c:1013:6:Error_Handler	1
